@@ -1,5 +1,5 @@
 # Installation 
-
+do a "pip install -r requrirements.txt" before running the project to install the requirements
 
 ```
     pip install django-cors-headers
